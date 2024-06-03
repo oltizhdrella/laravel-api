@@ -13,4 +13,6 @@ Laravel 10
 
 
 VISIT app_url/api/documentation for api UI/Documentation
+
+php register:package {user_id} {package_id} command to register a package to a user via command
    
