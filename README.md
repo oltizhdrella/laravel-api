@@ -10,4 +10,7 @@ Laravel 10
 5. Change your database credentials in .env file
 6. Run in terminal php artisan migrate --seed
 7. Run in terminal php artisan jwt:secret
+
+
+VISIT app_url/api/documentation for api UI/Documentation
    
